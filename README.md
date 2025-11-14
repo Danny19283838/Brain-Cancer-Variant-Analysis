@@ -1,4 +1,4 @@
-**Brain Cancer Variant Analysis**
+**Brain Cancer Variant Analysis:**
 This project performs exploratory data analysis (EDA), preprocessing, and pattern discovery on a dataset of 8,500+ genomic variants related to brain cancer. The goal is to clean the variant dataset, extract meaningful features (reference and alternate alleles, positions, mutation types), and visualize key distributions to support downstream bioinformatics pipelines.
 
 
